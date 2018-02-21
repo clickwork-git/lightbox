@@ -37,6 +37,11 @@ http://lokeshdhakar.com/projects/lightbox2/
 Versions
 --------
 
+1.0, February 21, 2018
+- Compatibility with Bludit v2.
+- Some minor code changes.
+- German languge files and liesmich.txt.
+
 0.2, August 23, 2016
 - Fixed "Lightbox script end tag missing" at line 28.
 
