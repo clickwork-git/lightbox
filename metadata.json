@@ -2,9 +2,9 @@
 	"author": "Clickwork",
 	"email": "egoetschel@clickwork.ch",
 	"website": "https://clickwork.ch",
-	"version": "0.2",
-	"releaseDate": "2016-08-23",
+	"version": "1.0",
+	"releaseDate": "2018-02-21",
 	"license": "MIT",
-	"compatible": "1.5,1.5.2,1.6.0,1.6.1,1.6.2,2.0",
+	"compatible": "2.1,2.2",
 	"notes": ""
 }
