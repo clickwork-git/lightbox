@@ -22,10 +22,8 @@ class pluginLightbox extends Plugin {
 
  	public function siteBodyEnd()
  	{
- 		global $Site;
- 		global $layout;
 
- 		$html  = '<script src="'.HTML_PATH_PLUGINS.'lightbox/js/lightbox.js"></script>';
+ 		$html  = PHP_EOL.'<script src="'.HTML_PATH_PLUGINS.'lightbox/js/lightbox.js"></script>'.PHP_EOL;
  		return $html;
 	}
 
