@@ -1,13 +1,13 @@
-<?php
+<<?php
 
 class pluginLightbox extends Plugin {
 
 	public function form()
 	{
-		global $Language;
+		global $L;
 
 		$html  = '<div>';
-		$html .= 'There are not settings for this plugin at the moment.';
+		$html .= $L->get('there-are-no-settings-for-this-plugin');
 		$html .= '</div>';
 
 		return $html;
