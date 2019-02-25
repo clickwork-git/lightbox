@@ -15,7 +15,7 @@ class pluginLightbox extends Plugin {
 
 	public function siteHead(){
 
-		$html  = '<link href="'.HTML_PATH_PLUGINS.'lightbox/css/lightbox.css" rel="stylesheet">';
+		$html  = '<link href="'.HTML_PATH_PLUGINS.'lightbox-1.2/css/lightbox.css" rel="stylesheet">';
 		return $html;
 
     }
