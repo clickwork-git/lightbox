@@ -1,4 +1,4 @@
-ightbox
+Lightbox
 ========
 
 Lightbox and gallery based on the lightbox script by Lokesh Dhakar.
