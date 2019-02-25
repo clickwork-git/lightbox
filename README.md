@@ -67,9 +67,9 @@ Versions
 --------
 
 1.2, February 25, 2019
+- Path to JavaScript fixed.
 - Language fixed.
-- Rewriting README.md and liesmicht.txt.
-- Renaming download archives. 
+- Rewriting README.md and liesmicht.txt. 
 
 1.1, January 31, 2019
 - Addition of Dutch language file.
