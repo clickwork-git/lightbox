@@ -65,7 +65,7 @@ http://lokeshdhakar.com/projects/lightbox2/
 
 Versions
 --------
-1.3, June 27, 2020
+1.3, June 28, 2020
 - Bugfix
 
 1.2, February 25, 2019
