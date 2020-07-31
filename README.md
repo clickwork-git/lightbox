@@ -65,6 +65,10 @@ http://lokeshdhakar.com/projects/lightbox2/
 
 Versions
 --------
+
+1.4, July 30, 2020
+- Pathes to lightbox.css and lightbox.js are no longer dependent from the version.
+
 1.3, June 28, 2020
 - Bugfix
 
