@@ -1,9 +1,7 @@
 Lightbox
 ========
 
-Lightbox and gallery based on the lightbox script by Lokesh Dhakar. More info:
-
-http://lokeshdhakar.com/projects/lightbox2/
+Lightbox and gallery based on the lightbox script by Lokesh Dhakar.
 
 Lightbox
 --------
