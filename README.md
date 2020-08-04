@@ -1,7 +1,9 @@
 Lightbox
 ========
 
-Lightbox and gallery based on the lightbox script by Lokesh Dhakar.
+Lightbox and gallery based on the lightbox script by Lokesh Dhakar. More info:
+
+http://lokeshdhakar.com/projects/lightbox2/
 
 Lightbox
 --------
@@ -65,6 +67,9 @@ http://lokeshdhakar.com/projects/lightbox2/
 
 Versions
 --------
+
+1.5, August 4, 2020
+- Update lightbox script from v2.8.2 to v2.11.3.
 
 1.4, July 30, 2020
 - Pathes to lightbox.css and lightbox.js are no longer dependent from the version.
